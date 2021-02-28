@@ -1,15 +1,19 @@
 # Synthetic-CMS-Minimum-Data-Set-MDS-dataset-with-all-codes-and-decodes
 Synthetic CMS Minimum Data Set MDS dataset with all codes and decodes
-                                                                                                                                                                                                                                     
+
+The Minimum Data Set (MDS) is part of a federally mandated process for clinical assessment of all residents 
+in Medicare or Medicaid certified nursing homes. This process entails a comprehensive, standardized assessment 
+of each resident's functional capabilities and health needs. Assessments are conducted by trained nursing home 
+clinicians on all patients at admission and discharge, in addition to other time intervals (e.g., quarterly, 
+annually, and when residents experience a significant change in status). 
+
 GitHub                                                                                                                                                
 https://tinyurl.com/exueaav4                                                                                                                          
 https://github.com/rogerjdeangelis/Synthetic-CMS-Minimum-Data-Set-MDS-dataset-with-all-codes-and-decodes                                              
                                                                                                                                                       
 Tools ( utl_b64decode here and on end of this message )                                                                                               
 https://tinyurl.com/n8bea8tx                                                                                                                          
-https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories                                                            
-                                                                                                                                                      
-macro utl_b64decode on end of this readme                                                                                                             
+https://github.com/rogerjdeangelis/utl-macros-used-in-many-of-rogerjdeangelis-repositories                                                                                                                                                                                                                                                                                                                            
                                                                                                                                                       
   This work was done entirely without access to any CMS MDS data. I used published                                                                    
   meta data and some publications.  If the meta data is correct the MDS table should                                                                  
