@@ -390,7 +390,7 @@
      delete syn;                                                                                                                                                   
     run;quit;                                                                                                                                                      
                                                                                                                                                                    
-    * download from GitHub.                                                                                                                                        
+    * download from GitHub;                                                                                                                                        
     filename _bcot "&_w/syn_dta.b64";                                                                                                                              
     proc http                                                                                                                                                      
        method='get'                                                                                                                                                
